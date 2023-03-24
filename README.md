@@ -10,6 +10,7 @@ This contains serval assignments from IS6400, IS Department, CityU HK
 - Tutorial 6: Feature Engineering
 - Tutorial 7: Clustering Method
 - Tutorial 8: Classification Method
+- Tutorial 9: Model classification
 
 ## Please note
 **I did not encourage anyone who learned this course that copy the code from this res directly, which is not beneficial for your learning.**
